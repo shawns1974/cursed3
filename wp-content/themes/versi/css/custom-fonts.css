@@ -1,0 +1,50 @@
+
+@font-face {
+	font-family: 'NovecentowideNormalRegular';
+	src: url('font/Novecentowide-Normal-webfont.eot');
+	src: url('font/Novecentowide-Normal-webfont.eot?#iefix') format('embedded-opentype'),  url('font/Novecentowide-Normal-webfont.woff') format('woff'),  url('font/Novecentowide-Normal-webfont.ttf') format('truetype'),  url('font/Novecentowide-Normal-webfont.svg#NovecentowideNormalRegular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'NovecentowideBookBold';
+	src: url('font/Novecentowide-Bold-webfont.eot');
+	src: url('font/Novecentowide-Bold-webfont.eot?#iefix') format('embedded-opentype'),  url('font/Novecentowide-Bold-webfont.woff') format('woff'),  url('font/Novecentowide-Bold-webfont.ttf') format('truetype'),  url('font/Novecentowide-Bold-webfont.svg#NovecentowideBookBold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'NovecentowideBookRegular';
+	src: url('font/Novecentowide-Book-webfont.eot');
+	src: url('font/Novecentowide-Book-webfont.eot?#iefix') format('embedded-opentype'),  url('font/Novecentowide-Book-webfont.woff') format('woff'),  url('font/Novecentowide-Book-webfont.ttf') format('truetype'),  url('font/Novecentowide-Book-webfont.svg#NovecentowideBookRegular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'NovecentowideLightBold';
+	src: url('font/Novecentowide-DemiBold-webfont.eot');
+	src: url('font/Novecentowide-DemiBold-webfont.eot?#iefix') format('embedded-opentype'),  url('font/Novecentowide-DemiBold-webfont.woff') format('woff'),  url('font/Novecentowide-DemiBold-webfont.ttf') format('truetype'),  url('font/Novecentowide-DemiBold-webfont.svg#NovecentowideLightBold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'NovecentowideLightRegular';
+	src: url('font/Novecentowide-Light-webfont.eot');
+	src: url('font/Novecentowide-Light-webfont.eot?#iefix') format('embedded-opentype'),  url('font/Novecentowide-Light-webfont.woff') format('woff'),  url('font/Novecentowide-Light-webfont.ttf') format('truetype'),  url('font/Novecentowide-Light-webfont.svg#NovecentowideLightRegular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'NovecentowideUltraLightBold';
+	src: url('font/Novecentowide-Medium-webfont.eot');
+	src: url('font/Novecentowide-Medium-webfont.eot?#iefix') format('embedded-opentype'),  url('font/Novecentowide-Medium-webfont.woff') format('woff'),  url('font/Novecentowide-Medium-webfont.ttf') format('truetype'),  url('font/Novecentowide-Medium-webfont.svg#NovecentowideUltraLightBold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.blog-single {
+	background:crimson;
+	color:#ffffff;
+}
+
+

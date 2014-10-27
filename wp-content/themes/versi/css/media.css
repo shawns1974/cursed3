@@ -1,0 +1,239 @@
+@media only screen and (min-width: 1200px)  {
+.milestones .span3 {
+	width: 292.5px;
+}
+
+.milestone-count {
+    font-size: 22px;
+}
+.rnr-icon-middle h2 {
+	font-size: 24px;
+}
+
+.navigation li a {
+	padding: 30px 10px;
+}
+
+.navigation.iconic li a {
+	padding:16px 10px;
+}
+
+.navigation.scroll li a {
+    padding: 15px 10px;
+}
+
+#respond-inputs p {
+	width: 243px;
+	margin-right:20px;
+	float: left;
+}
+#respond-inputs p.last {
+	margin: 0;
+}
+#respond input {
+	display: block;
+	width: 225px;
+	margin: 0;
+}
+#respond textarea {
+	display: block;
+	width: 752px;
+}
+.home-text-wrapper .flexslider.full-width .flex-caption p {
+	width:28%;
+	font-size:16px;
+	line-height:1.4;
+}
+	
+}
+
+@media only screen and (max-width: 979px) and (min-width: 768px) {
+.logo {
+  width: 110px;
+  padding: 0;
+}
+.navigation li a, .navigation.scroll li a {
+  padding-left: 0px;
+  padding-right: 0px;
+ }
+}
+
+
+/* QUERIES FOR IPAD/TABLETPC  PORTRAIT AND LANDSSCAPE */
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+	
+#portfolio-wrap .span4 {
+	width:352px;
+}
+
+.navigation li a {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.logo {
+	width:120px;
+	padding:0;
+}
+.logo img {
+	max-width:100%;
+	height:auto;
+}
+
+
+.pricing-table.four > div {
+	width: 48%;
+	margin-bottom: 40px;
+}
+#respond input,#respond textarea  {
+	width: 94%;
+}
+.home-text-wrapper .flex-caption {
+	top:42%;
+}
+
+.home-text-wrapper .flex-caption h2 {
+	font-size:22px;
+}
+.home-text-wrapper .flex-caption p {
+	width:50%;
+	font-size:13px;
+	line-height:1.4;
+}
+
+.home-text-wrapper .flex-caption a.button {
+	line-height:26px;
+}
+
+
+}
+/*Add the following code to "media.css" file */
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+.section {
+	background-attachment:scroll !important;
+}
+	
+.full-width-slider .home-text-wrapper {
+   padding: 54px 0 0px;
+}	
+.cs-text-mid {
+	text-transform: uppercase;
+	font-size: 18px;
+	letter-spacing: 2px;
+	line-height: 1.4;
+}
+ul.tabs {
+    border-bottom:none;
+}
+ul.tabs li {
+    width: 100%;
+    border-bottom:none;
+}
+ul.tabs li.active {
+	border:none;
+}
+.tabs_contents {
+    width: 100%;
+    border:none;
+}
+.selectnav {
+	display:block;
+}
+.one_half,
+.one_third,
+.two_third,
+.one_fourth,
+.three_fourth,
+.one_fifth,
+.two_fifth,
+.three_fifth,
+.four_fifth,
+.one_sixth,
+.five_sixth { 
+   width: 100%;
+   margin:0;
+   margin-bottom:40px;
+   float:none;
+}
+.logo {
+	width:120px;
+	padding:0;
+	height: 50px;
+}
+.logo img {
+	width:100%;
+	height:auto;
+}
+
+.navigation .nav {
+	display:none;
+}
+
+.row {
+	margin-bottom:0;
+}
+
+[class*="span"] {
+	margin-bottom:30px;
+}
+
+.fancy-header h1:after, .fancy-header h1:before {
+	display:none;
+}
+
+.pricing-table.four > div {
+   width: 98%;
+   margin-bottom:30px;
+}
+
+.header-text {
+	font-size:36px;
+}
+
+.fancy-header h1 {
+	font-size:24px;
+}
+.callout-text h1, .caption {
+	font-size:22px !important;
+}
+
+.rnr-service-box .rnr-service-box-content {
+    margin: 120px 0px 70px;
+}
+
+.flex-caption {
+	display:none !important;
+}
+
+.pricing-column.highlight {
+	margin-top:0;
+}
+#respond input,#respond textarea  {
+	width: 94%;
+}
+
+.post-meta {
+    font-size: 13px;
+}
+
+
+.socialsharing h4 {
+	float:none;
+	display: block;
+	text-align: center;
+}
+.socialsharing .social-icons {
+	float:none;	
+	list-style: none;
+	margin: 0;
+	text-align: center;
+}
+.socialsharing .social-icons li {
+	float:none;	
+	display: inline-block;
+}
+
+
+
+}
